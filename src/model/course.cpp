@@ -1,4 +1,4 @@
-struct Cource
+class Cource
 {
 public:
   int get_cource_no(void);
@@ -29,13 +29,13 @@ int Cource::get_cource_count(void) {
 }
 
 void Cource::set_cource_no(int cource_no) {
-  cource_no = cource_no;
+  this->cource_no = cource_no;
 }
 
 void Cource::set_cource_name(char cource_name) {
-  cource_name = cource_name;
+  this->cource_name = cource_name;
 }
 
 void Cource::set_cource_count(int cource_count) {
-  cource_count = cource_count;
+  this->cource_count = cource_count;
 }
