@@ -1,3 +1,7 @@
+/**
+ * @brief 选课实体类
+ * 
+ */
 class Elective
 {
 public:

@@ -1,3 +1,7 @@
+/**
+ * @brief 课程实体类
+ * 
+ */
 class Cource
 {
 public:

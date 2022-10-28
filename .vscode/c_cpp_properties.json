@@ -18,12 +18,12 @@
         "databaseFilename": "",
         "path": [
           "${workspaceRoot}",
-          "E:/BaiduNetdiskDownload/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
-          "E:/BaiduNetdiskDownload/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
-          "E:/BaiduNetdiskDownload/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
-          "E:/BaiduNetdiskDownload/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
-          "E:/BaiduNetdiskDownload/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-          "E:/BaiduNetdiskDownload/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+          "D:/C++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+          "D:/C++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+          "D:/C++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+          "D:/C++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+          "D:/C++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+          "D:/C++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
         ]
       },
       "compilerPath": "E:/BaiduNetdiskDownload/mingw64/bin/gcc.exe"

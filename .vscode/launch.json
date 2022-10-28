@@ -12,7 +12,7 @@
       "environment": [],
       "externalConsole": true,
       "MIMode": "gdb",
-      "miDebuggerPath": "E:/BaiduNetdiskDownload/mingw64/bin/gdb.exe",
+      "miDebuggerPath": "D:\\C++\\mingw64\\bin\\gdb.exe",
       "preLaunchTask": "g++",
       "setupCommands": [
         {
@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/practice/src",
-      "program": "e:/practice/src/build/Debug/outDebug",
+      "cwd": "d:/Bexam/C++/dopractice/src",
+      "program": "d:/Bexam/C++/dopractice/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
